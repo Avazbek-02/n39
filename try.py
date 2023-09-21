@@ -3,4 +3,4 @@ try:
 except:
     print("xato")
 finally:
-    print("finily")
+    print("wow")
